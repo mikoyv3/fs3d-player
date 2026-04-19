@@ -16,3 +16,9 @@ A simple Linux tool that plays FS3D (frame-sequential 3D) videos as SBS (side-by
 Install:
 ```bash
 sudo apt install ffmpeg zenity
+
+Create Main Script:
+nano fs3d-player.sh
+
+Make it Executable:
+chmod +x fs3d-player.sh
